@@ -7,4 +7,5 @@ like : ( Arabic - Urdu - Hebrew - Farsi &gt;&gt; )
 
 
 Author : moceap `<moceap () hotmail ! com>`
-see https://build.opensuse.org/package/show/home:moceap/Scribus
+
+See https://build.opensuse.org/package/show/home:moceap/Scribus
